@@ -1,8 +1,8 @@
 <?php
 // use actual sendgrid username and password in this section
 $url = 'https://api.sendgrid.com/'; 
-$user = 'Bendevshop'; // place SG username here
-$pass = 'master12!'; // place SG password here
+$user = ''; // place SG username here
+$pass = ''; // place SG password here
 
 
 // grabs HTML form's post data; if you customize the form.html parameters then you will need to reference their new new names here
